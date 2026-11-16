@@ -1,6 +1,6 @@
 cask "mindow" do
-  version "0.2.0"
-  sha256 "998174d6a5ee00dd203686421fa3f0076847e70270dbbf93828e18169285cc6a"
+  version "0.3.0"
+  sha256 "e256d6919a0de056bb127267b2638932db9df3a742ee83213a5f45740fcfe308"
 
   url "https://github.com/Jeong-Jae-Hun/mindow/releases/download/v#{version}/Mindow-#{version}.zip"
   name "Mindow"
