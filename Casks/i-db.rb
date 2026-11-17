@@ -1,6 +1,6 @@
 cask "i-db" do
-  version "1.1.2"
-  sha256 "caabb1dd3a204ac31499c6408d6f01f5f6af465e234342f7f7aa8535b47e7d7c"
+  version "1.1.3"
+  sha256 ""
 
   url "https://github.com/Jeong-Jae-Hun/i-db/releases/download/v#{version}/i-db_darwin_arm64.zip"
   name "i-db"
